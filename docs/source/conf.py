@@ -18,8 +18,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Mammoth Timers\' Guide'
-copyright = '2020, Zach Henry'
+project = 'Mountain Rambler Brewery Operations Manual'
+copyright = '2024, Mountain Rambler Brewery'
 author = 'Zach Henry'
 
 # The full version, including alpha/beta/rc tags
