@@ -11,46 +11,18 @@
 .. toctree::
    :maxdepth: 2
    :includehidden:
-   :caption: Intro and Best Practices
+   :caption: Menu
    
-   intro/intro
-   best-practices/best-practices
- 
-.. toctree::
-   :maxdepth: 2
-   :includehidden:
-   :caption: Setup
-   
-   setup/homologated/setup
-   setup/other/index
+   menu/food/food
 
 .. toctree::
    :maxdepth: 2
    :includehidden:
-   :caption: Running a Race
+   :caption: Beer
+   :glob:
    
-   reference/radio-protocol
-   reference/split-second
-   race-day/race-day
-   race-day/other-race-day-officials
-   
-.. toctree::
-	:maxdepth: 2
-	:includehidden:
-	:caption: Infrastructure
-	
-	infrastructure/mountain-layout
-	infrastructure/race-venues
-	infrastructure/timing-shacks
-	
-.. toctree::
-	:maxdepth: 2
-	:includehidden:
-	:caption: Equipment
-	
-	equipment/equipment-list
-	Kits <equipment/equipment-kits>
-	equipment/in-depth
+   menu/beer/*
+ 
 
 .. toctree::
    :maxdepth: 2

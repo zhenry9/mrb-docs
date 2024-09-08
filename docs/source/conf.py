@@ -57,7 +57,7 @@ exclude_patterns = []
 #
 html_theme = 'sphinx_rtd_theme'
 
-html_favicon = 'favicon-32x32.png'
+html_favicon = 'favicon.ico'
 
 # html_logo = 'mammoth-logo.jpg'
 
