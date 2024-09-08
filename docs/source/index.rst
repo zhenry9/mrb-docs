@@ -9,12 +9,12 @@
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :includehidden:
    :caption: Menu
    :glob:
    
-   menu/food/burgers/*
+   menu/food/burgers/burgers.rst
    menu/food/sandwiches/*
 
 .. toctree::
