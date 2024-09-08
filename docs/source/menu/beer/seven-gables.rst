@@ -11,14 +11,14 @@ Seven Gables Scottish Ale
 +---------+------+
 
 .. figure:: /_static/beer/seven-gables-pint.png
-   :scale: 30 %
+   :scale: 80 %
 
 Awards
 ~~~~~~
-- *2021* Gold, Great American Beer Fest
-- *2023* Gold, Brewers Cup of California
-- *2024* Gold, Brewers Cup of California
-- *2024* Bronze, World Beer Cup
+- **2021** *Gold* Great American Beer Fest
+- **2023** *Gold* Brewers Cup of California
+- **2024** *Gold* Brewers Cup of California
+- **2024** *Bronze* World Beer Cup
 
 Mash
 ~~~~~
