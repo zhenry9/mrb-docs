@@ -11,12 +11,13 @@ Venusian Blonde Ale
 +---------+------+
 
 .. figure:: /_static/beer/Venusian-Tap-Handle.jpg
+   :scale: 30 %
 
     Art by Ava Stavros.
 
 Awards
 ~~~~~~
-- *2019* Gold at Brewers' Cup of California
+- *2019* Gold, Brewers Cup of California
 
 Mash
 ~~~~~

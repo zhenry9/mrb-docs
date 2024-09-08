@@ -1,0 +1,41 @@
+=========================
+Seven Gables Scottish Ale
+=========================
+
+`Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#10>`_
+
++---------+------+
+| **ABV** | 5.8% |
++---------+------+
+| **IBU** |  24  |
++---------+------+
+
+.. figure:: /_static/beer/seven-gables-pint.png
+   :scale: 30 %
+
+Awards
+~~~~~~
+- *2021* Gold, Great American Beer Fest
+- *2023* Gold, Brewers Cup of California
+- *2024* Gold, Brewers Cup of California
+- *2024* Bronze, World Beer Cup
+
+Mash
+~~~~~
+- Irish Malt
+
+Hops Bill
+~~~~~~~~~
+- Bittering Hops
+
+Tasting Notes
+~~~~~~~~~~~~~
++---------------+-----------------------------------------------------------------------------+
+|   **Color**   |                                                                             |
++---------------+-----------------------------------------------------------------------------+
+|   **Aroma**   | Roasted, caramel, earthy, light mineral, walnut, light chocolate, cherry    |
++---------------+-----------------------------------------------------------------------------+
+|   **Flavor**  | Malty, grainy sweet sweet, roasted, caramel, light slate, very light coffee |
++---------------+-----------------------------------------------------------------------------+
+| **Mouthfeel** | Smooth, moderate carb, creamy, surprisingly light                           |
++---------------+-----------------------------------------------------------------------------+
