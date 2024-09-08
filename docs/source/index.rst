@@ -12,8 +12,9 @@
    :maxdepth: 2
    :includehidden:
    :caption: Menu
+   :glob:
    
-   menu/food/food
+   menu/food/*
 
 .. toctree::
    :maxdepth: 2
@@ -29,8 +30,6 @@
    :includehidden:
    :caption: Reference
    
-   paperwork/index
-   reference/icr-reference
    links
 
 
