@@ -8,7 +8,7 @@
 
 .. include:: ../../README.rst
 
-   .. toctree::
+.. toctree::
    :maxdepth: 1
    :includehidden:
    :caption: Beer
@@ -24,7 +24,7 @@
    menu/food/burgers/burgers.rst
    menu/food/sandwiches/sandwiches.rst
 
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :includehidden:
    :caption: Sides, sauces, and ingredients
