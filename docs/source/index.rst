@@ -9,7 +9,7 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :includehidden:
    :caption: Menu
    :glob:
@@ -18,7 +18,7 @@
    menu/food/sandwiches/*
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :includehidden:
    :caption: Beer
    :glob:
