@@ -8,26 +8,29 @@
 
 .. include:: ../../README.rst
 
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: Menu
-   :glob:
-   
-   menu/food/burgers/burgers.rst
-   menu/food/sandwiches/sandwiches.rst
-   menu/food/sides/*
-   menu/food/sauces-dressings/*
-
-.. toctree::
+   .. toctree::
    :maxdepth: 1
    :includehidden:
    :caption: Beer
    :glob:
    
    menu/beer/*
- 
 
+.. toctree::
+   :maxdepth: 2
+   :includehidden:
+   :caption: Menu items
+   
+   menu/food/burgers/burgers.rst
+   menu/food/sandwiches/sandwiches.rst
+
+   .. toctree::
+   :maxdepth: 2
+   :includehidden:
+   :caption: Sides, sauces, and ingredients
+   
+   menu/food/sides/sides.rst
+ 
 .. toctree::
    :maxdepth: 2
    :includehidden:
