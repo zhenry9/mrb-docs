@@ -14,7 +14,8 @@
    :caption: Menu
    :glob:
    
-   menu/food/*
+   menu/food/burgers/*
+   menu/food/sandwiches/*
 
 .. toctree::
    :maxdepth: 2
