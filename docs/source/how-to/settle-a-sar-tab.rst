@@ -16,7 +16,7 @@ Procedure
 - Name the tab "SAR," and leave it open until the team leader comes up to close it. They will likely make multiple orders.
 - When they're done, the team leader will come to the register with paperwork similar to below:
 
-.. figure:: /_static/how-two/sar/sar-sheet.jpeg
+.. figure:: /_static/how-to/sar/sar-sheet.jpeg
    :width: 400
    
    Correctly filled-out SAR paperwork.
