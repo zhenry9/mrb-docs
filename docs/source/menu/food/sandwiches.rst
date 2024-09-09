@@ -4,7 +4,7 @@ Sandwiches
 Grilled Chicken Sandwich
 ------------------------
 - Chicken breast
-- Great Basin "ciabatta" bun
+- :ref:`Great Basin Ciabatta Bun`
 - Lettuce
 - Tomato
 - Onion

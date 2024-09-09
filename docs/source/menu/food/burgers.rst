@@ -3,7 +3,7 @@ Burgers
 
 The Burger
 ----------
-- 6oz Barbwire Beef patty
+- 6oz :ref:`Barbwire Beef patty`
 - :ref:`Great Basin Ciabatta Bun`
 - Lettuce
 - Tomato
@@ -12,7 +12,7 @@ The Burger
 
 Rambler Burger
 --------------
-- 6oz Barbwire Beef patty
+- 6oz :ref:`Barbwire Beef patty`
 - :ref:`Great Basin Ciabatta Bun`
 - Cheddar cheese
 - Bacon
@@ -24,7 +24,7 @@ Rambler Burger
 
 Bacon and Blue Burger
 ---------------------
-- 6oz Barbwire Beef patty
+- 6oz :ref:`Barbwire Beef patty`
 - :ref:`Great Basin Ciabatta Bun`
 - Bacon
 - Blue cheese

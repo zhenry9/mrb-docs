@@ -3,6 +3,7 @@ Salad Dressings
 
 Balsamic Dressing
 -----------------
+*vegan, gluten-free*
 - ginger root
 - garlic
 - balsamic vinegar
@@ -14,6 +15,7 @@ Balsamic Dressing
 
 Tahini Dressing
 ---------------
+*vegan, gluten-free*
 - tahini
 - lemon juice
 - water
@@ -22,6 +24,7 @@ Tahini Dressing
 
 Sesame Dresssing
 ----------------
+*vegan, contains gluten*
 - olive oil
 - rice vinegar
 - honey
@@ -34,6 +37,7 @@ Sesame Dresssing
 
 Maple Dressing
 --------------
+*vegan, gluten-free*
 - olive oil
 - maple
 - white wine vinegar

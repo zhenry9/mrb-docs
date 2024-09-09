@@ -3,6 +3,7 @@ Sauces
 
 Garlic Aioli
 ------------
+*gluten-free*
 - eggs
 - water
 - onion
@@ -15,6 +16,7 @@ Garlic Aioli
 
 Tarragon Aioli
 --------------
+*gluten-free*
 - eggs
 - mustard
 - water
@@ -29,15 +31,18 @@ Tarragon Aioli
 
 Beer Mustard
 ------------
+*vegan, gluten-free*
 - onion
 - dark beer
 - mustard seed
 
-Chicken Marinade
-----------------
-- apple juice
-- honey
-- soy sauce
+Chimichurri
+-----------
+*vegan,gluten-free*
+- parsley
+- olive oil
+- lemon juice
+- red onion
 - garlic
-- sugar
-- ginger
+- red pepper flakes
+- salt
