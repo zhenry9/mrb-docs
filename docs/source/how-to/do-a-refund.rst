@@ -27,11 +27,11 @@ When to refund a single item:
 
 When to void a payment:
 
-- When the tab was closed out incorrectly. For example, with the wrong card, another guests card, or to card when the guest wants to pay cash.
+- When the tab was closed out incorrectly. For example, with the wrong card, another guest's card, or to card when the guest wants to pay cash.
 - When the guest only ordered one item.
 
 Refunding a single item
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 `Relevant Arryved Knowledge Base artice <https://support.arryved.com/portal/en/kb/articles/refunds-and-exchanges-14-3-2019>`_
 
 Refunding a single item is a good option when there was a problem with one item out of a large order. To refund an item, first ring it in like normal, making sure to add all the upcharged modifiers from the original order. Then, tap on the item, and hit the "REFUND" button. This will apply the item as a negative charge.
@@ -41,7 +41,7 @@ If the guest is exchanging one item for another, like sometimes happens with sof
 If the guest originally paid with a card, it is best practice to close the refund to the same card. This is to prevent the guest from disputing the original charge with their bank.
 
 Voiding a payment
-~~~~~~~~~~~~~~~~~
+-----------------
 `Relevant Arryved Knowledge Base artice <https://support.arryved.com/portal/en/kb/articles/voiding-payments>`_
 
 Voiding a payment is a good option when a tab was closed out incorrectly, for example to the wrong card. Voiding the payment re-opens the tab, allows you to add or modify items, then take payment again. 
