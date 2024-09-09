@@ -4,6 +4,7 @@ Salad Dressings
 Balsamic Vinaigrette
 --------------------
 *vegan, gluten-free*
+
 - ginger root
 - garlic
 - balsamic vinegar
@@ -16,15 +17,17 @@ Balsamic Vinaigrette
 Tahini Dressing
 ---------------
 *vegan, gluten-free*
+
 - tahini
 - lemon juice
 - water
 - honey
 - salt
 
-Sesame Dresssing
-----------------
+Sesame Dressing
+---------------
 *vegan, contains gluten*
+
 - olive oil
 - rice vinegar
 - honey
