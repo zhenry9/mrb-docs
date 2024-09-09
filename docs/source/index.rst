@@ -17,6 +17,14 @@
    how-to/*
 
 .. toctree::
+   :maxdepth: 2
+   :includehidden:
+   :caption: Troubleshooting
+   :glob:
+   
+   troubleshooting/*
+
+.. toctree::
    :maxdepth: 1
    :includehidden:
    :caption: Beer
