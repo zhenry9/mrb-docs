@@ -24,6 +24,9 @@
    
    troubleshooting/*
 
+Menu and Ingredient Reference
+-----------------------------
+
 .. toctree::
    :maxdepth: 1
    :includehidden:
