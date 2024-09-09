@@ -41,6 +41,7 @@ Sesame Dressing
 Maple Vinaigrette
 -----------------
 *vegan, gluten-free*
+
 - olive oil
 - maple
 - white wine vinegar
