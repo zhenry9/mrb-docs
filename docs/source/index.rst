@@ -11,6 +11,14 @@
 .. toctree::
    :maxdepth: 1
    :includehidden:
+   :caption: How to...
+   :glob:
+   
+   how-to/*
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
    :caption: Beer
    :glob:
    
