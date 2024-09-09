@@ -38,7 +38,7 @@
    :caption: Sides, sauces, and ingredients
    :glob:
    
-   menu/ingredients/*
+   menu/food/ingredients/*
  
 .. toctree::
    :maxdepth: 2
