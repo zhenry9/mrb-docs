@@ -36,6 +36,7 @@ Internet outage
 If it is an internet service outage, we can still function in offline mode. Rather than rewrite the instructions for going into offline mode, I will link to the `Arryved Knowledge Base article <https://support.arryved.com/portal/en/kb/articles/offline-mode-25-4-2019>`_.
 
 The key takeaways are:
+
 - POS devices can't communicate with one another in offline mode. For this reason, we should take all orders on one single device in offline mode to avoid getting out of sync.
 - When internet service is restored, the device must be `taken out of offline mode and synced <https://support.arryved.com/portal/en/kb/articles/offline-mode-cheat-sheet>`_.
 
@@ -44,6 +45,7 @@ Local network failure
 If our local network hardware has failed, we will be unable to send tickets to the kitchen. Unless it is extremely slow, it is just not possible for us to operate this way. 
 
 Steps for an attempted fix:
+```````````````````````````
 
 #. Open the network rack above the chest freezer in the prep room.
 #. Turn the main power supply off.
