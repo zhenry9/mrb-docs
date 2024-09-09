@@ -1,8 +1,8 @@
 Salad Dressings
 ===============
 
-Balsamic Dressing
------------------
+Balsamic Vinaigrette
+--------------------
 *vegan, gluten-free*
 - ginger root
 - garlic
@@ -35,8 +35,8 @@ Sesame Dresssing
 - ginger
 - sesame seeds
 
-Maple Dressing
---------------
+Maple Vinaigrette
+-----------------
 *vegan, gluten-free*
 - olive oil
 - maple

@@ -10,6 +10,21 @@ Grilled Chicken Sandwich
 - Onion
 - Spicy Mayo
 
+Pastrami Reuben
+---------------
+- Pastrami
+- Toasted :ref:`Rye Bread`
+- Caramelized onion
+- Sauerkraut
+- Swiss cheese
+- :ref:`Thousand Island Dressing`
+
+Grilled Cheese
+--------------
+- :ref:`Great Basin Sourdough`
+- Cheddar cheese
+
+
 Side Choices
 ------------
 - :ref:`Fries` (default)

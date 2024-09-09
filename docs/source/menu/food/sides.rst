@@ -21,4 +21,4 @@ Side Salad
 - Tomato
 - Onion
 - Cucumber
-- :ref:`Balsamic Dressing`
+- :ref:`Balsamic Vinaigrette`

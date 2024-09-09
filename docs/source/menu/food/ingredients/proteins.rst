@@ -15,8 +15,8 @@ Housemade Veggie Patty
 - apple sauce
 - black pepper
 
-Marinated Chicken
------------------
+Marinated Chicken Breast
+------------------------
 - apple juice
 - honey
 - soy sauce
