@@ -68,7 +68,7 @@ html_favicon = 'favicon.ico'
 # documentation.
 html_theme_options = {
     "collapse_navigation" : False,
-    "style_nav_header_background" : "#86bf02"
+    "style_nav_header_background" : "#578a00"
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
