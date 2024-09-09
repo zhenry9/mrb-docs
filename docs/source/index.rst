@@ -28,16 +28,17 @@
    :maxdepth: 2
    :includehidden:
    :caption: Menu items
+   :glob:
    
-   menu/food/burgers/burgers.rst
-   menu/food/sandwiches/sandwiches.rst
+   menu/food/*
 
 .. toctree::
    :maxdepth: 2
    :includehidden:
    :caption: Sides, sauces, and ingredients
+   :glob:
    
-   menu/food/sides/sides.rst
+   menu/ingredients/*
  
 .. toctree::
    :maxdepth: 2
