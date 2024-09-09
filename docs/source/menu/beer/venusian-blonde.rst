@@ -17,7 +17,7 @@ Venusian Blonde Ale
 
 Awards
 ~~~~~~
-- **2019** *Gold* Brewers Cup of California
+- *2019* **Gold** Brewers Cup of California
 
 Mash
 ~~~~~

@@ -15,7 +15,7 @@ Picture Puzzle Session IPA
 
 Awards
 ~~~~~~
-- **2024** *Silver* Brewers Cup of California
+- *2024* **Silver** Brewers Cup of California
 
 Mash
 ~~~~~
