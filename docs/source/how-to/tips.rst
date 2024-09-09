@@ -4,8 +4,8 @@ Do Daily Tips
 Procedure
 ---------
 #. Count drop and tip bags, and verify amounts are correct.
-#. Use the “Tips Distribution Worksheet” Google sheet. Start with a blank sheet by going to the Tip Functions menu and selecting “Reset sheet”
-#. In the Arryved portal (portal.arryved.com), go to Reporting->Sales->Sales Activity. Select the correct day, then download and open the .csv file.
+#. Use the `“Tips Distribution Worksheet” <https://docs.google.com/spreadsheets/d/1za_TXWzNyfeG4FjSdg7rBejhFZfAsyZ1o0n550VldPA/>`_ Google sheet. Start with a blank sheet by going to the Tip Functions menu and selecting “Reset sheet”
+#. In the `Arryved portal <https://portal.arryved.com>`_, go to Reporting->Sales->Sales Activity. Select the correct day, then download and open the .csv file.
 #. Copy all of the contents of the .csv file, and paste into the “Reporting - Sales Activity” tab in the Tips Distribution Worksheet.
 #. Repeat this process for the Reporting->Sales->Purchase Items report: download the .csv file, then copy the contents into the corresponding tab in the tips worksheet.
 #. The credit card tips should now be in the worksheet. Enter in the cash tips and employee hours from Homebase.
@@ -25,16 +25,19 @@ Troubleshooting
 If it's the first time you've used the sheet, you might get this message when trying to use the tip function menu:
 
 .. figure:: /_static/how-to/tips/authorization-required.png
-   :caption: Authorization required
+   
+   Authorization required
 
 Click ok, then sign in if prompted. You'll get a warning message. Click "advanced" in the bottom left corner.
 
 .. figure:: /_static/how-to/tips/unsafe.png
-   :caption: Danger!
+   
+   Danger!
 
 Next, throw caution to the wind and click "Go to Untitled project"
 
 .. figure:: /_static/how-to/tips/go-to-untitled.png
-   :caption: Full steam ahead.
+   
+   Full steam ahead.
 
 On the next screen, click allow. The tips menu should now be functional
