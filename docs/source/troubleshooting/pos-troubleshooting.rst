@@ -12,7 +12,7 @@ The drawer is connected to and controlled by the receipt printer. When the drawe
 
 If none of these fix the problem, it could be a :ref:`Network Outage`.
 
-As a last resort, or to continue taking payments while working on a fix, the drawer can be opened with a key. The key is located in the Master Lock box above the safe in the prosecco room.
+As a last resort, or to continue taking payments while working on a fix, the drawer can be opened with a key. The key is located in the Master Lock box above the safe in the prosecco room. The tax inspectors frown on using a key to open the register, so this should be a temporary fix only.
 
 Kitchen Tickets Not Printing
 ----------------------------
@@ -26,3 +26,26 @@ Possible problems:
 - **Cable loose:** make sure the power and internet cables are correctly connected at both ends.
 
 If none of these fix the problem, it could be a :ref:`Network Outage`.
+
+Network Outage
+--------------
+One of the very hardest things to deal with is a network outage. When the internet, or our local network goes down, it is hard to take payments, send orders, print tickets, or function generally.
+
+Internet outage
+~~~~~~~~~~~~~~~
+If it is an internet service outage, we can still function in offline mode. Rather than rewrite the instructions for going into offline mode, I will link to the `Arryved Knowledge Base article <https://support.arryved.com/portal/en/kb/articles/offline-mode-25-4-2019>`_.
+
+The key takeaways are:
+- POS devices can't communicate with one another in offline mode. For this reason, we should take all orders on one single device in offline mode to avoid getting out of sync.
+- When internet service is restored, the device must be `taken out of offline mode and synced <https://support.arryved.com/portal/en/kb/articles/offline-mode-cheat-sheet>`_.
+
+Local network failure
+~~~~~~~~~~~~~~~~~~~~~
+If our local network hardware has failed, we will be unable to send tickets to the kitchen. Unless it is extremely slow, it is just not possible for us to operate this way. 
+
+Steps for an attempted fix:
+
+#. Open the network rack above the chest freezer in the prep room.
+#. Turn the main power supply off.
+#. Check temperatures. If the equipment is hot, make sure the case fans are running and unobstructed.
+#. After allowing the equipment to cool, turn it back on and cross your fingers.
