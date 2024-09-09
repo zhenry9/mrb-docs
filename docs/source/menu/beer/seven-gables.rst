@@ -11,7 +11,7 @@ Seven Gables Scottish Ale
 +---------+------+
 
 .. figure:: /_static/beer/seven-gables-pint.png
-   :scale: 80 %
+   :width: 300
 
 Awards
 ~~~~~~

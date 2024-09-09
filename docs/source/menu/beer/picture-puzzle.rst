@@ -11,7 +11,7 @@ Picture Puzzle Session IPA
 +---------+------+
 
 .. figure:: /_static/beer/picture-puzzle-pint.png
-   :scale: 30 %
+   :width: 300
 
 Awards
 ~~~~~~

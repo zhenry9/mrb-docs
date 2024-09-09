@@ -11,9 +11,9 @@ Venusian Blonde Ale
 +---------+------+
 
 .. figure:: /_static/beer/Venusian-Tap-Handle.jpg
-   :scale: 25 %
+   :height: 500
 
-    Art by Ava Stavros.
+   Art by Ava Stavros.
 
 Awards
 ~~~~~~

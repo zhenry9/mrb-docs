@@ -11,7 +11,7 @@ Shieldback West Coast IPA
 +---------+------+
 
 .. figure:: /_static/beer/shieldback-pint.png
-   :scale: 30 %
+   :width: 300
 
 Awards
 ~~~~~~
