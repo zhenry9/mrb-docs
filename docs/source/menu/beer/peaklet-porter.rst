@@ -11,7 +11,7 @@ Peaklet Porter
 +---------+------+
 
 .. figure:: /_static/beer/peaklet-pint.png
-   :scale: 80 %
+   :width: 300
 
 Awards
 ~~~~~~
