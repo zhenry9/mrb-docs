@@ -7,7 +7,7 @@ Key Points
 Here are a few major points regarding SAR tabs:
 
 - Alcohol is NOT allowed on the SAR tab. Individual SAR members are allowed to drink alcohol, provided they pay for it separately.
-- NA beers are OK.
+- NA beers are no longer allowed on the SAR tab.
 - The tip is calculated on the sub-total, before tax.
 - The team leader needs to take a photo of the receipt and completed paperwork before they leave.
 
