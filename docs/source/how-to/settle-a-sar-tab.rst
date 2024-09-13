@@ -13,18 +13,18 @@ Here are a few major points regarding SAR tabs:
 
 Procedure
 ---------
-- Name the tab "SAR," and leave it open until the team leader comes up to close it. They will likely make multiple orders.
-- When they're done, the team leader will come to the register with paperwork similar to below:
+#. Name the tab "SAR," and leave it open until the team leader comes up to close it. They will likely make multiple orders.
+#. When they're done, the team leader will come to the register with paperwork similar to below:
 
-.. figure:: /_static/how-to/sar/sar-sheet.jpeg
-   :width: 400
-   
-   Correctly filled-out SAR paperwork.
+    .. figure:: /_static/how-to/sar/sar-sheet.jpeg
+       :width: 400
+        
+       Correctly filled-out SAR paperwork.
 
-- Print the customer receipt for the tab.
-- Multiply the **subtotal** by 0.18. This is the tip.
-- Add the tip to the **total**. This amount goes next to TOTAL AMOUNT DUE.
-- Staple the receipt to the paper, and let the team leader take a picture. This part is important!
-- Put the paper in the bag with the cash drop.
-- Close the tab out to check. For the check number, use the report number.
-- Take the tip amount out of the drawer, and put it in the tip jar. Remember that the drawer will be short by this amount at the end of the night.
+#. Print the customer receipt for the tab.
+#. Multiply the **subtotal** by 0.18. This is the tip.
+#. Add the tip to the **total**. This amount goes next to TOTAL AMOUNT DUE.
+#. Staple the receipt to the paper, and let the team leader take a picture. This part is important!
+#. Put the paper in the bag with the cash drop.
+#. Close the tab out to check. For the check number, use the report number.
+#. Take the tip amount out of the drawer, and put it in the tip jar. Remember that the drawer will be short by this amount at the end of the night.
