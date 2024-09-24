@@ -7,6 +7,7 @@ There are two different gases, from two different tanks, that make up the draft 
 In addition to these two tanks going into the blender, there will be another CO2 tank with a special regulator on it. Sam uses this tank to for beer carbonation and we don't need to worry about it. We are only concerned with the nitrogen tank and the CO2 tank that says "BAR" in red tape on the regulator.
 
 .. figure:: /_static/how-to/draft-system/draft-system.png
+    
    The complete tank setup.
 
 How to tell when a tank is low
