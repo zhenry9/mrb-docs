@@ -12,6 +12,6 @@ Foamy, bad pouring beers can be caused by a number of things.
     #. 86 the beer for the night.
     #. Ask Zach, Mark or Sam to put on a low-flow faucet.
 - Are multiple beers pouring badly?
-    - :ref:`Check the gas. <How to tell when a tank is low>`. This is most likely the problem.
-    - Wait a bit for the pressure to equalize after changing a tank.
-    - Send up a help flare! (Call Sam, Zach or Joe)
+    #. :ref:`Check the gas. <How to tell when a tank is low>` This is most likely the problem.
+    #. Wait a bit for the pressure to equalize after changing a tank.
+    #. Send up a help flare! (Call Sam, Zach or Joe)

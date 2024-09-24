@@ -1,5 +1,8 @@
 Change a Beer Gas Tank
 ======================
+
+Draft system overview
+---------------------
 If many taps start concurrently pouring badly, it is a good indication of low gas pressure in the beer draft system. 
 
 There are two different gases, from two different tanks, that make up the draft system gas: carbon dioxide (CO2), and nitrogen. These gases go into a box called a blender, that mixes the gases to the correct ratio and sends the mix to the kegs. A low or empty tank of either gas will cause low pressure, and bad pouring.
@@ -15,6 +18,8 @@ How to tell when a tank is low
 You can tell if a gas tank is low by looking at the regulator. There are two gauges on each regulator: one for **tank pressure**, and one for **line pressure**.
 
 .. figure:: regulator close up
+
+   Regulator showing the two pressure gauges.
 
 The tank pressure gauge tells you how much gas is left in the tank. The line pressure gauge tells you how much pressure is coming out of the tank and into the lines.
 
