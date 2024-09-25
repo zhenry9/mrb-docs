@@ -17,7 +17,8 @@ How to tell when a tank is low
 ------------------------------
 You can tell if a gas tank is low by looking at the regulator. There are two gauges on each regulator: one for **tank pressure**, and one for **line pressure**.
 
-.. figure:: regulator close up
+.. figure:: /_static/how-to/draft-system/regulator.png
+   :width: 400
 
    Regulator showing the two pressure gauges.
 
@@ -31,7 +32,8 @@ Once you've determined that a tank is low and needs changed, you'll need to take
 
 Rambler convention is that full tanks have the metal collars on top, and empty tanks to not.
 
-.. figure:: full and empty tanks
+.. figure:: /_static/how-to/draft-system/regulator-diagram.jpeg
+   :width: 400
 
 #. Take the metal collar and plastic dust cap off of a new tank.
 #. Shut off valve **A** on the bottom of the regulator.
