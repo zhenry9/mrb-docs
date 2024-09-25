@@ -37,6 +37,7 @@ Veggie Burger
 -------------
 - :ref:`Housemade Veggie Patty`
 - :ref:`Great Basin Ciabatta Bun`
+- :ref:`Tarragon Aioli`
 - Lettuce
 - Tomato
 - Onion

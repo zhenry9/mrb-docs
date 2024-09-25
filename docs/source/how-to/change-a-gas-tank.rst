@@ -7,7 +7,7 @@ If many taps start concurrently pouring badly, it is a good indication of low ga
 
 There are two different gases, from two different tanks, that make up the draft system gas: carbon dioxide (CO2), and nitrogen. These gases go into a box called a blender, that mixes the gases to the correct ratio and sends the mix to the kegs. A low or empty tank of either gas will cause low pressure, and bad pouring.
 
-In addition to these two tanks going into the blender, there will be another CO2 tank with a special regulator on it. Sam uses this tank to for beer carbonation and we don't need to worry about it. We are only concerned with the nitrogen tank and the CO2 tank that says "BAR" in red tape on the regulator.
+In addition to the two tanks hooked to the blender, there will be another CO2 tank with a special regulator on it. Sam uses this tank to for beer carbonation and we don't need to worry about it. We are only concerned with the nitrogen tank and the CO2 tank that says "BAR" in red tape on the regulator.
 
 .. figure:: /_static/how-to/draft-system/draft-system.png
 
