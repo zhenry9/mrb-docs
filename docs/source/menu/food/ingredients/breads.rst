@@ -38,7 +38,9 @@ Frozen from the Venice Baking Co.
 
 Empanada Dough
 --------------
+*vegan*
+
 - Flour
 - Baking soda
 - Salt
-- Butter
+- Oil
