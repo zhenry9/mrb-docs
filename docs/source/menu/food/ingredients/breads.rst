@@ -5,17 +5,17 @@ Housemade Pizza Crust
 ---------------------
 *vegan*
 
-- yeast
-- salt
-- flour
+- Yeast
+- Salt
+- Flour
 
 Great Basin Ciabatta Bun
 ------------------------
 *vegan*
 
-- yeast
-- salt
-- flour
+- Yeast
+- Salt
+- Flour
 
 Gluten-free Crust
 -----------------
@@ -23,18 +23,17 @@ Gluten-free Crust
 
 Frozen from the Venice Baking Co.
 
-- Water
-- Rice Flour
-- Modified Rice Starch
-- Potato Starch
+- Rice flour
+- Modified rice starch
+- Potato starch
 - Sugar
-- Tapioca Starch
+- Tapioca starch
 - Potato Flour
-- Canola/olive Oil Blend
+- Canola/olive oil blend
 - Yeast
 - Salt
-- Xanthan Gum
-- Cultured Brown Rice.
+- Xanthan gum
+- Cultured brown rice
 
 Empanada Dough
 --------------
@@ -44,3 +43,30 @@ Empanada Dough
 - Baking soda
 - Salt
 - Oil
+
+Gluten-Free Multigrain Bread
+----------------------------
+*vegan, gluten-free*
+
+- Modified tapioca starch
+- Corn starch
+- Potato starch
+- Brown rice flour
+- Sprouted brown rice flour
+- Sprouted red and white quinoa
+- Sprouted sunflour seeds
+- Sprouted amaranth
+- Sprouted millet
+- Gluten-free sprouted oats
+- Sunflour oil
+- Psyllium husk
+- Cane sugar
+- Dextrose
+- Modified cellulose
+- Raisin juice
+- Pea hull fiber
+- Vinegar
+- Salt
+- Rice bran
+- Cultured cane sugar
+- Cellulose gum
