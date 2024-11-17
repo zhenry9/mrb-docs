@@ -17,7 +17,7 @@ Awards
 ~~~~~~
 - *2024* **Silver** Brewers Cup of California
 
-Mash
+Malt
 ~~~~~
 - 80% 2-row base Malt
 - Vienna
@@ -25,8 +25,8 @@ Mash
 - Pils
 - Crystal IS
 
-Hops Bill (Medium)
-~~~~~~~~~
+Hops
+~~~~
 - Comet
 - Citra
 - Centennial

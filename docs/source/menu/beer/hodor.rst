@@ -17,12 +17,12 @@ Awards
 ~~~~~~
 - 
 
-Mash
+Malt
 ~~~~~
 - 52% wheat
 
-Hops Bill (light)
-~~~~~~~~~
+Hops
+~~~~~
 - Hallertau Mittelfruh
 
 Tasting Notes

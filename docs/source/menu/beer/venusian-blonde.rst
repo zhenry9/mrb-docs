@@ -19,13 +19,13 @@ Awards
 ~~~~~~
 - *2019* **Gold** Brewers Cup of California
 
-Mash
+Malt
 ~~~~~
 -
 -
 
-Hops Bill
-~~~~~~~~~
+Hops
+~~~~
 - Bittering Hops
 
 Tasting Notes

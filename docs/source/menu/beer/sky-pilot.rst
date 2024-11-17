@@ -17,12 +17,12 @@ Awards
 ~~~~~~
 - 
 
-Mash
+Malt
 ~~~~~
 - 
 
-Hops Bill
-~~~~~~~~~
+Hops
+~~~~~
 - 
 
 Tasting Notes

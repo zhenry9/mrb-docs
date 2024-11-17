@@ -16,7 +16,7 @@ Shieldback West Coast IPA
 Awards
 ~~~~~~
 
-Mash
+Malt
 ~~~~~
 - 90% 2-row base Malt
 - Biscuit
@@ -25,8 +25,8 @@ Mash
 - Pils
 - Wheat
 
-Hops Bill (Heavy)
-~~~~~~~~~
+Hops (Heavy)
+~~~~~~~~~~~~
 - Nugget
 - Idaho 7
 - Eldorado

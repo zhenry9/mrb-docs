@@ -20,12 +20,12 @@ Awards
 - *2024* **Gold** Brewers Cup of California
 - *2024* **Bronze** World Beer Cup
 
-Mash
+Malt
 ~~~~~
 - Irish Malt
 
-Hops Bill
-~~~~~~~~~
+Hops
+~~~~
 - Bittering Hops
 
 Tasting Notes

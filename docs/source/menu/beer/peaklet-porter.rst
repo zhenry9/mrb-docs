@@ -19,12 +19,12 @@ Awards
 - *2024* **Silver** World Beer Cup
 - *2024* **Silver** Great American Beer Festival
 
-Mash
-~~~~~
+Malt
+~~~~
 - 
 
-Hops Bill
-~~~~~~~~~
+Hops
+~~~~
 - Bittering Hops
 
 Tasting Notes
