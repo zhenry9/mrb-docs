@@ -10,7 +10,7 @@ Peaklet Porter
 | **IBU** |  33  |
 +---------+------+
 
-.. figure:: /_static/beer/peaklet-pint.png
+.. figure:: /_static/beer/peaklet-pint.jpg
    :width: 300
 
 Awards
