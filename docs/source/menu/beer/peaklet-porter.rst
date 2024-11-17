@@ -2,12 +2,12 @@
 Peaklet Porter
 ==========================
 
-`Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#20>`_
+`Style Description <https://www.craftbeer.com/styles/robust-porter>`_
 
 +---------+------+
-| **ABV** | 7.0% |
+| **ABV** | 6.3% |
 +---------+------+
-| **IBU** |  27  |
+| **IBU** |  33  |
 +---------+------+
 
 .. figure:: /_static/beer/peaklet-pint.png
@@ -17,6 +17,7 @@ Awards
 ~~~~~~
 - *2024* **Gold** Brewers Cup of California
 - *2024* **Silver** World Beer Cup
+- *2024* **Silver** Great American Beer Festival
 
 Mash
 ~~~~~
