@@ -41,10 +41,3 @@ Tasting Notes
 +---------------+-----------------------------------------------------------------------------+
 | **Mouthfeel** | Smooth, moderate carb, creamy, surprisingly light                           |
 +---------------+-----------------------------------------------------------------------------+
-
-Pairings
-~~~~~~~~
-- Roasted and grilled meats
-- Gruyere
-- Chocolate
-- Peanut butter

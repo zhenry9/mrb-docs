@@ -40,3 +40,10 @@ Tasting Notes
    "**Aroma**","Roasted, coffee, light caramel, licorice, woodsy"
    "**Flavor**","Robust! Roasty, coffee, chocolate, earthy, tart"
    "**Mouthfeel**","Smooth, moderate carb, dense, medium"
+
+Pairings
+~~~~~~~~
+- Roasted and grilled meats
+- Gruyere
+- Chocolate
+- Peanut butter
