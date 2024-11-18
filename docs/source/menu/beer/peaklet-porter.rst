@@ -13,7 +13,7 @@ Peaklet Porter
 .. figure:: /_static/beer/peaklet-pint.jpg
    :width: 300
 
-The Peaklet Porter has been one of our most successful beers, with 3 wins in 2024. It is very dark in color, with a roasted malt flavor provided primarily by the black, brown, and crystal malts. The hops are just for bittering.
+The Peaklet Porter has been one of our most successful beers, with 3 wins in 2024. It is very dark in color, with a roasted malt flavor provided primarily by the black, brown, and crystal malts. And a mild hop bitterness to balance a subtle malty sweetness.
 
 Awards
 ~~~~~~
