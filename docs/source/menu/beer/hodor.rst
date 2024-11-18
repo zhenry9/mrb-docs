@@ -20,7 +20,7 @@ Awards
 Malt
 ~~~~~
 - 52% wheat
-- Pilsnet
+- Pilsner
 - Munich
 
 Hops
