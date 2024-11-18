@@ -19,11 +19,13 @@ Awards
 
 Malt
 ~~~~~
-- 
+- Maris Otter base
+- Dex, wheat, Vienna, crystal
 
 Hops
 ~~~~~
-- 
+- Idaho
+- Eldorado
 
 Tasting Notes
 ~~~~~~~~~~~~~
