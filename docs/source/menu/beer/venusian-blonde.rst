@@ -21,8 +21,8 @@ Awards
 
 Malt
 ~~~~~
--
--
+- 2-row
+- Vienna
 
 Hops
 ~~~~

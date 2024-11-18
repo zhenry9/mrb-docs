@@ -23,6 +23,8 @@ Awards
 Malt
 ~~~~~
 - Irish Malt
+- Maris Otter
+- Many others
 
 Hops
 ~~~~
