@@ -13,6 +13,8 @@ Peaklet Porter
 .. figure:: /_static/beer/peaklet-pint.jpg
    :width: 300
 
+The Peaklet Porter has been one of our most successful beers, with 3 wins in 2024. It is very dark in color, with a roasted malt flavor provided primarily by the black, brown, and crystal malts. The hops are just for bittering.
+
 Awards
 ~~~~~~
 - *2024* **Gold** Brewers Cup of California
@@ -21,11 +23,14 @@ Awards
 
 Malt
 ~~~~
-- 
+- 2-row
+- Maris Otter
+- Munich
+- Brown, black, crystal and others
 
 Hops
 ~~~~
-- Bittering Hops
+- Bittering hops (Apollo)
 
 Tasting Notes
 ~~~~~~~~~~~~~
