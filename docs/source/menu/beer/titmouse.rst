@@ -1,5 +1,5 @@
 ==========================
-Singing Coyote Amber
+Titmouse Hazy Pale Ale
 ==========================
 
 `Style Description <>`_
