@@ -1,5 +1,6 @@
 Redeem an Insider Offer
 =======================
+`Relevant Arryved Knowledge Base artice <https://support.arryved.com/portal/en/kb/articles/how-to-redeem-offers>`_
 
 General info
 ------------
