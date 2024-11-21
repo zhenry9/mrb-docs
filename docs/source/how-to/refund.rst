@@ -27,7 +27,8 @@ When to refund a single item:
 
 When to void a payment:
 
-- When the tab was closed out incorrectly. For example, with the wrong card, another guest's card, or to card when the guest wants to pay cash.
+- When a guest is cancelling an entire order.
+- When the tab was closed out incorrectly. For example, with the wrong card, another guest's card, or to card-on-file when the guest wants to pay cash.
 - When the guest only ordered one item.
 
 Refunding a single item
