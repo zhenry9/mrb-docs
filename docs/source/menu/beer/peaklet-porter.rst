@@ -43,6 +43,9 @@ Tasting Notes
 
 Pairings
 ~~~~~~~~
+- Any :ref:`burger. <The Burger>`
+- :ref:`Porter Brownie`
+- :ref:`Tiramisu`
 - Roasted and grilled meats
 - Gruyere
 - Chocolate
