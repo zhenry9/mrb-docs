@@ -15,9 +15,9 @@ Last Chance Kettle Sour
 .. figure:: /_static/beer/last-chance-tulip.jpg
    :width: 300
 
-This beer is a collaboration with Distant Brewing. It is a Kettle Sour, which is different from a true sour or a "wild ale." Unlike a true sour, which is slowly made sour by yeasts and bacteria after boiling, a kettle sour is made sour quickly by adding bacteria to the brew kettle before boiling, and thus killing, the bacteria. 
+This beer is a collaboration with Distant Brewing. It is a Kettle Sour, which is different from a true sour or a "wild ale." Unlike a true sour, which is slowly made sour by yeasts and bacteria after boiling, a kettle sour is made sour quickly by adding bacteria to the brew kettle before boiling. Boiling kills the bacteria before the beer goes into the fermentation tank.
 
-The sour flavor of the Last Chance comes mostly from the lactic acid created by the lactobacillus bacteria. Despite the name, lactic acid is not related to milk and does not cause problems to people with lactose intolerance. In addition, some citric acid was added to get it to the right PH and give it a puckery flavor. After fermentation, Raspberry and Prickly Pear were added.
+The sour flavor of the Last Chance comes mostly from the lactic acid created by the lactobacillus bacteria. Despite the name, lactic acid does not contain lactose and should not cause problems for people with lactose intolerance. In addition, some citric acid was added to get it to the right PH and give it a puckery flavor. After fermentation, Raspberry and Prickly Pear were added.
 
 Awards
 ~~~~~~
