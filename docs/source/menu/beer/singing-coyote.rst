@@ -13,6 +13,9 @@ Singing Coyote Amber
 .. figure:: /_static/beer/singing-coyote-pint.jpg
    :width: 300
 
+Name Origin
+~~~~~~~~~~~
+There is a **summit** on the Smokes Rock Course in the Buttermilks named "Coyote Singing," but Singing Coyote sounds better.
 
 Awards
 ~~~~~~

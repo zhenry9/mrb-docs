@@ -13,6 +13,12 @@ Shieldback West Coast IPA
 .. figure:: /_static/beer/shieldback-pint.png
    :width: 300
 
+Name Origin
+~~~~~~~~~~~
+Shieldback is the common name of an **insect** that is endemic to the Serra Nevada and a member of the cricket family (but is not a cricket!). They can be found on the tops of mountains, including Mt. Whitney.
+
+Side story: this beer was originally called "Acrodectes IPA," after the genus name of the same insect. It was incredibly hard for people to pronounce so we changed it to the common name. The true name of the insect is Alpine Shieldback (Acrodectes philophagus).
+
 Awards
 ~~~~~~
 

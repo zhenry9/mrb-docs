@@ -13,6 +13,10 @@ Seven Gables Scottish Ale
 .. figure:: /_static/beer/seven-gables-pint.png
    :width: 300
 
+Name Origin
+~~~~~~~~~~~
+Seven Gables is a **mountain** located just west of Bishop, behind Mt. Tom.
+
 Awards
 ~~~~~~
 - *2021* **Gold** Great American Beer Fest

@@ -13,6 +13,10 @@ Hodor Hefeweizen
 .. figure:: /_static/beer/hodor-pint.png
    :width: 300
 
+Name Origin
+~~~~~~~~~~~
+Hold the door!
+
 Awards
 ~~~~~~
 - 

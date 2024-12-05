@@ -13,10 +13,12 @@ Titmouse Hazy Pale Ale
 .. figure:: /_static/beer/titmouse-pint.jpg
    :width: 300
 
+Name Origin
+~~~~~~~~~~~
+A profane (not really) **bird** endemic to North America, including the Eastern Sierra.
 
 Awards
 ~~~~~~
-
 
 Malt
 ~~~~

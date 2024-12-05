@@ -15,6 +15,10 @@ Venusian Blonde Ale
 
    Art by Ava Stavros.
 
+Name Origin
+~~~~~~~~~~~
+Named after a famous **climbing route** on Temple Crag. The actual name is Venusian Blind Arete. It is in reference to the planet Venus, and is probably a play on Venetian blinds.
+
 Awards
 ~~~~~~
 - *2019* **Gold** Brewers Cup of California

@@ -13,6 +13,10 @@ Picture Puzzle Session IPA
 .. figure:: /_static/beer/picture-puzzle-pint.png
    :width: 300
 
+Name Origin
+~~~~~~~~~~~
+Picture Puzzle is a **mountain** in the Inconsolable Range, near South Lake.
+
 Awards
 ~~~~~~
 - *2024* **Silver** Brewers Cup of California

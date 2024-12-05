@@ -15,6 +15,10 @@ Peaklet Porter
 
 The Peaklet Porter has been one of our most successful beers, with 3 wins in 2024. It is very dark in color, with a roasted malt flavor provided primarily by the black, brown, and crystal malts, with a mild hop bitterness to balance the subtle malty sweetness.
 
+Name Origin
+~~~~~~~~~~~
+Peaklet is a **mountain** located just off Mt. Humphreys, above the Buttermilks.
+
 Awards
 ~~~~~~
 - *2024* **Gold** Brewers Cup of California
