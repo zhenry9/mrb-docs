@@ -19,7 +19,6 @@ Hold the door!
 
 Awards
 ~~~~~~
-- 
 
 Malt
 ~~~~~
