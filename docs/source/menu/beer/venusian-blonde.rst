@@ -4,11 +4,11 @@ Venusian Blonde Ale
 
 `Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#36>`_
 
-+---------+------+
-| **ABV** | 4.8% |
-+---------+------+
-| **IBU** |  25  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","4.8%"
+   "**IBU**","25"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/Venusian-Tap-Handle.jpg
    :height: 500

@@ -4,11 +4,11 @@ Shieldback West Coast IPA
 
 `Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#184>`_
 
-+---------+------+
-| **ABV** | 7.5% |
-+---------+------+
-| **IBU** |  66  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","7.5%"
+   "**IBU**","66"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/shieldback-pint.png
    :width: 300

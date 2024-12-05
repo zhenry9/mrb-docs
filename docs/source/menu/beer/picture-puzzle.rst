@@ -4,11 +4,11 @@ Picture Puzzle Session IPA
 
 `Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#141>`_
 
-+---------+------+
-| **ABV** | 4.9% |
-+---------+------+
-| **IBU** |  49  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","4.9%"
+   "**IBU**","49"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/picture-puzzle-pint.png
    :width: 300

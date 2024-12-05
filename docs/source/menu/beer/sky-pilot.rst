@@ -4,11 +4,11 @@ Sky Pilot Extra Pale Ale
 
 `Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#20>`_
 
-+---------+------+
-| **ABV** | 6.4% |
-+---------+------+
-| **IBU** |  51  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","6.4%"
+   "**IBU**","51"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/skypilot.png
    :width: 300

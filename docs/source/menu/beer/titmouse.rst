@@ -4,11 +4,11 @@ Titmouse Hazy Pale Ale
 
 `Style Description <>`_
 
-+---------+------+
-| **ABV** | 6.2% |
-+---------+------+
-| **IBU** |  56  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","6.2%"
+   "**IBU**","56"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/titmouse-pint.jpg
    :width: 300

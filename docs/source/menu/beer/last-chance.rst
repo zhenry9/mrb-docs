@@ -4,13 +4,11 @@ Last Chance Kettle Sour
 
 `Style Description <https://www.craftbeer.com/styles/american-sour>`_
 
-+---------------+-------+
-|    **ABV**    |  6.5% |
-+---------------+-------+
-|    **IBU**    |  n/a  |
-+---------------+-------+
-| **Glassware** | Tulip |
-+---------------+-------+
+.. csv-table::
+
+   "**ABV**","6.5%"
+   "**IBU**","n/a"
+   "**Glassware**","Tulip"
 
 .. figure:: /_static/beer/last-chance-tulip.jpg
    :width: 300

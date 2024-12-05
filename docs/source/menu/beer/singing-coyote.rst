@@ -4,11 +4,11 @@ Singing Coyote Amber
 
 `Style Description <https://www.craftbeer.com/styles/amber-ale>`_
 
-+---------+------+
-| **ABV** | 5.6% |
-+---------+------+
-| **IBU** |  24  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","5.6%"
+   "**IBU**","24"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/singing-coyote-pint.jpg
    :width: 300

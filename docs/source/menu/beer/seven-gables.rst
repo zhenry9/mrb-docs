@@ -4,11 +4,11 @@ Seven Gables Scottish Ale
 
 `Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#10>`_
 
-+---------+------+
-| **ABV** | 5.8% |
-+---------+------+
-| **IBU** |  24  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","5.8%"
+   "**IBU**","24"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/seven-gables-pint.png
    :width: 300

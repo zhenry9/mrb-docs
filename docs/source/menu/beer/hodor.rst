@@ -4,11 +4,11 @@ Hodor Hefeweizen
 
 `Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#20>`_
 
-+---------+------+
-| **ABV** | 5.5% |
-+---------+------+
-| **IBU** |  17  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","5.5%"
+   "**IBU**","17"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/hodor-pint.png
    :width: 300

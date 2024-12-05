@@ -4,11 +4,11 @@ Peaklet Porter
 
 `Style Description <https://www.craftbeer.com/styles/robust-porter>`_
 
-+---------+------+
-| **ABV** | 6.3% |
-+---------+------+
-| **IBU** |  33  |
-+---------+------+
+.. csv-table::
+
+   "**ABV**","6.3%"
+   "**IBU**","33"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/peaklet-pint.jpg
    :width: 300
