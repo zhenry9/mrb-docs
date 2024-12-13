@@ -45,3 +45,9 @@ Tasting Notes
    "**Aroma**","Citrus, earthy, slight cereal sweetness, slightly grassy, pear, slightly smokey"
    "**Flavor**","Smooth bitterness, herbal, earthy, slightly grassy, light mineral, light citrus, stone fruit"
    "**Mouthfeel**","Smooth, moderate carb, sharp opening"
+
+Pairings
+~~~~~~~~
+- :ref:`Green and Blue Salad`
+- :ref:`Fries`
+- Taco Tuesday

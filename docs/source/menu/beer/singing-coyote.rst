@@ -44,5 +44,6 @@ Tasting Notes
 
 Pairings
 ~~~~~~~~
+- Taco Tuesday
 - Barbecue
 - Cheddar cheese

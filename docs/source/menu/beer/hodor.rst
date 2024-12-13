@@ -2,7 +2,7 @@
 Hodor Hefeweizen
 ==========================
 
-`Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#20>`_
+`Style Description <https://www.craftbeer.com/styles/german-style-hefeweizen>`_
 
 .. csv-table::
 

@@ -13,7 +13,9 @@ Peaklet Porter
 .. figure:: /_static/beer/peaklet-pint.jpg
    :width: 300
 
-The Peaklet Porter has been one of our most successful beers, with 3 wins in 2024. It is very dark in color, with a roasted malt flavor provided primarily by the black, brown, and crystal malts, with a mild hop bitterness to balance the subtle malty sweetness.
+The Peaklet Porter was the second beer ever brewed at MRB, all the way back in December 2014.
+
+It has been one of our most successful beers recently, with 3 medal wins in 2024. It is very dark in color, with a roasted malt flavor provided primarily by the black, brown, and crystal malts, and a mild hop bitterness to balance the subtle malty sweetness.
 
 Name Origin
 ~~~~~~~~~~~
