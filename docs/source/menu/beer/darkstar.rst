@@ -13,7 +13,7 @@ Dark Star Imperial Stout
 .. figure:: /_static/beer/darkstar-tulip.jpg
    :width: 300
 
-
+As an Imperial Stour, the Dark Star is a "big beer": it has more malts, more sugars, more alcohol, more everything except hops. The Dark Star has a thick, molasses mouthfeel, with a smokey, oaky, coffee and cherry flavors coming through. At over 10% ABV, it is our strongest beer on tap.
 
 Name Origin
 ~~~~~~~~~~~
@@ -44,8 +44,8 @@ Tasting Notes
 
    "**Color**","Black"
    "**Aroma**",""
-   "**Flavor**",""
-   "**Mouthfeel**",""
+   "**Flavor**","Coffee, smokey, cherry, oaky, molasses"
+   "**Mouthfeel**","Thick"
 
 Pairings
 ~~~~~~~~

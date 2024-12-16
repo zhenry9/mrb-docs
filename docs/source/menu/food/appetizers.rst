@@ -40,3 +40,26 @@ Rambler Sausage Plate
 - 2 beef-jalapeno sausages
 - Sauerkraut
 - :ref:`Beer Mustard`
+
+Brussels Sprouts
+----------------
+*gluten-free, vegan*
+
+- Brussels sprouts
+- salt
+- pepper
+- olive oil
+- :ref:`Tahini Dressing`
+
+Baked Potato
+------------
+*gluten-free*
+
+- potato
+- :ref:`Garlic Aioli`
+- green chiles
+- avocado-cilantro sauce
+- mozzarella
+- scallions
+- paprika
+- option of bacon, broccoli, or both
