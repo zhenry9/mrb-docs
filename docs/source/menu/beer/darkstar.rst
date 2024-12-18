@@ -6,8 +6,8 @@ Dark Star Imperial Stout
 
 .. csv-table::
 
-   "**ABV**","%"
-   "**IBU**",""
+   "**ABV**","10%"
+   "**IBU**","33"
    "**Glassware**","Tulip"
 
 .. figure:: /_static/beer/darkstar-tulip.jpg
