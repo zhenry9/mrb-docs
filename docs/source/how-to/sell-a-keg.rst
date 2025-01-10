@@ -49,6 +49,6 @@ Ring it up
 ----------
 The final part is to ring up the keg, and any necessary deposits in the POS. Blonde, Kolsch, Lenticular, Lager, and anything else at the $6 pint price point is standard price. Everything else is premium.
 
-There are a few locals that swap empty kegs for full ones every few months. We don't need to charge these guys a depost. However, for everyone else we should charge a $30 keg deposit. It's important that we put their name on the tab, or as a note on the deposit, or both, so we know how to refund the deposit when we return the keg.
+There are a few locals that swap empty kegs for full ones every few months. We don't need to charge these guys a depost. However, everyone else should be charged a $30 keg deposit. It's important that we put their name on the tab, or as a note on the deposit, or both, so we know how to refund the deposit when they return the keg.
 
 Keg deposits can be viewed and refunded in the POS by going to the staff tab and hitting "Deposits."
