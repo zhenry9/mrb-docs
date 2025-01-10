@@ -25,9 +25,7 @@ The first piece of paperwork is the Beer Keg Registration form. This is to colle
    
    Beer Keg Registration sheet.
 
-We need to fill out the top part of the sheet. Our address is 186 S Main St, and our license number is 23-532481.
-
-The customer needs to fill out their personal info in the middle section, and we both need to sign the bottom.
+We need to fill out the top part of the sheet. Our address is 186 S Main St, and our license number is 23-532481. The customer needs to fill out their personal info in the middle section, and we both need to sign the bottom.
 
 The other piece of state paperwork is the Beer Keg Identification Tag. This is a set of three yellow stickers with numbers on it.
 
@@ -36,11 +34,7 @@ The other piece of state paperwork is the Beer Keg Identification Tag. This is a
    
    Keg Identification Tag.
 
-We fill out our info on the big sticker and stick it to the keg. These stickers can sometimes be hard to get off kegs, so it's helpful to stick it to your pants first to remove some of the stickiness.
-
-The two smaller stickers in the bottom right go on each copy of the Beer Keg Registration sheet.
-
-Once you've gotten all this filled out and stickers applied, the customer takes the white copy and we keep the pink copy
+We fill out our info on the big sticker and stick it to the keg. These stickers can sometimes be hard to get off kegs, so it's helpful to stick it to your pants first to remove some of the stickiness. The two smaller stickers in the bottom right go on each copy of the Beer Keg Registration sheet. Once you've gotten all this filled out and stickers applied, the customer takes the white copy and we keep the pink copy.
 
 Attach a Keg Collar
 -------------------
