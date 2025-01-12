@@ -4,8 +4,9 @@ Do Daily Tips
 Procedure
 ---------
 #. Count drop and tip bags, and verify amounts are correct.
-#. Use the `“Tips Distribution Worksheet” <https://docs.google.com/spreadsheets/d/1za_TXWzNyfeG4FjSdg7rBejhFZfAsyZ1o0n550VldPA/>`_ Google sheet. Start with a blank sheet by going to the Tip Functions menu and selecting “Reset sheet”
+#. Use the `“Tips Distribution Worksheet” <https://docs.google.com/spreadsheets/d/1za_TXWzNyfeG4FjSdg7rBejhFZfAsyZ1o0n550VldPA/>`_ Google sheet. Start with a blank sheet by going to the Tip Functions menu and selecting “Reset sheet.”
 #. In the `Arryved portal <https://portal.arryved.com>`_, go to Reporting->Sales->Sales Activity. Select the correct day, then download and open the .csv file.
+#. Make sure the date/time column is wide enough. If it isn't, you'll see "######" in place of the correct data. Widen the column until the date and time appear.
 #. Copy all of the contents of the .csv file, and paste into the “Reporting - Sales Activity” tab in the Tips Distribution Worksheet.
 #. Repeat this process for the Reporting->Sales->Purchase Items report: download the .csv file, then copy the contents into the corresponding tab in the tips worksheet.
 #. The credit card tips should now be in the worksheet. Enter in the cash tips and employee hours from Homebase.
@@ -19,6 +20,10 @@ Procedure
 
 Troubleshooting
 ---------------
+
+Tip totals not populating in worksheet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Check the two Reporting tabs and make sure the time/date columns aren't all ####. If they are, go back to the .csv file, widen the column until the data appears, then copy again.
 
 "Authorization Required" message
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
