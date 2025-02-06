@@ -21,7 +21,7 @@ Taproom Close
 -------------
 - Count cash tips, note and initial on "Late Night" line.
 - On any Arryved terminal, go to Staff -> Location CO (Closeout section). 
-    - The total cash from this slip goes on the "For Deposit" line of the cash box slip.
+    - The total cash from this slip goes on the "Total Cash Sales" line of the cash box slip.
     - The total card tips from this slip goes on the "Daily total credit tips" line of the tips slip.
 - Use the `Rambler Cash Counter <https://docs.google.com/spreadsheets/d/1LAY1lc2Kkgr6CYb-6FGR_3AzwXksUdlER1CFjeE8ySo>`_ to count the drawer.
     - The "Total" on this page goes on the "Ending" line of the Cash Box slip.
