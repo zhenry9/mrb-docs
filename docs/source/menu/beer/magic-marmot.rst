@@ -8,7 +8,7 @@ Magic Marmot Oatmeal Stout
 
    "**ABV**","6.5%"
    "**IBU**","30"
-   "**Glassware**","Tulip"
+   "**Glassware**","Pint"
 
 .. figure:: /_static/beer/marmot-pint.jpg
    :width: 300
