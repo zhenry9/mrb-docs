@@ -29,8 +29,8 @@ Malt
 
 Hops
 ~~~~
-- Apollo
-- Trident
+- Mosaic
+- Belma
 
 Tasting Notes
 ~~~~~~~~~~~~~
@@ -38,7 +38,7 @@ Tasting Notes
 
    "**Color**",""
    "**Aroma**",""
-   "**Flavor**",""
+   "**Flavor**","More bitter than a hazy IPA, with sweetness from higher malt bill"
    "**Mouthfeel**",""
 
 Pairings
