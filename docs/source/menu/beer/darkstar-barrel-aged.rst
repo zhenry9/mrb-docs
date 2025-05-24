@@ -4,7 +4,7 @@ Barrel-Aged Dark Star Imperial Stout
 
 Style
 ~~~~~
-Strong, dark and known for its higher alcohol content. Typically characterized by dark fruits, roasted malts and hints of caramel or chocolate. Originating in England these brews were designed to last long voyages. Our imperial stout gains hints of vanilla, coconut, and rich bourbon as it is rested in farm distilled bourbon oak barrels.
+Strong, dark and known for its higher alcohol content. Typically characterized by dark fruits, roasted malts and hints of caramel or chocolate. Originating in England, these brews were designed to last long voyages. Our imperial stout gains hints of vanilla, coconut, and rich bourbon as it is rested in farm distilled bourbon oak barrels.
 
 .. csv-table::
 

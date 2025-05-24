@@ -1,9 +1,9 @@
 Proteins
 ========
 
-Barbwire Beef patty
--------------------
-80% lean. Grass-fed and locally grown, in Bridgeport and Fish Lake Valley.
+Harris Ranch Beef patty
+-----------------------
+80% lean. Grown in California, including in the Owens Valley. The majority of black cows in the valley are sold to and processed by Harris Ranch.
 
 Housemade Veggie Patty
 ----------------------
