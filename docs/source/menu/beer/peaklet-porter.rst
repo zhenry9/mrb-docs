@@ -2,7 +2,9 @@
 Peaklet Porter
 ==========================
 
-`Style Description <https://www.craftbeer.com/styles/robust-porter>`_
+Style
+~~~~~
+Originating in England in the 18th century, it is known by its deep dark color due to the roasting process available at the time. Generally porters are made with an ale yeast characterized by their malty flavors often with notes of chocolate, coffee, or nuts. It was a favorite of the porters in London who transported goods, which is how it got its name.
 
 .. csv-table::
 
@@ -13,13 +15,14 @@ Peaklet Porter
 .. figure:: /_static/beer/peaklet-pint.jpg
    :width: 300
 
-The Peaklet Porter was the second beer ever brewed at MRB, all the way back in December 2014.
+Description
+~~~~~~~~~~~
+This easy drinker has been racking up awards and medals since 2023 and even won silver in the World Beer Cup 2024. Smokey molasses meets esters of stone fruit with an ivory cream head to top it off. This beer finishes clean and dry after taking you through a delicate dance into the malt world. 
 
-It has been one of our most successful beers recently, with 3 medal wins in 2024. It is very dark in color, with a roasted malt flavor provided primarily by the black, brown, and crystal malts, and a mild hop bitterness to balance the subtle malty sweetness.
 
 Name Origin
 ~~~~~~~~~~~
-Peaklet is a **mountain** located just off Mt. Humphreys, above the Buttermilks.
+Peaklet is a **mountain** located just off Mt. Humphreys, above the Buttermilks. The Peaklet Porter was the second beer ever brewed at MRB, all the way back in December 2014.
 
 Awards
 ~~~~~~

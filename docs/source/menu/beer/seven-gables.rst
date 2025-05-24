@@ -2,7 +2,9 @@
 Seven Gables Scottish Ale
 =========================
 
-`Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#10>`_
+Style
+~~~~~
+A Scottish ale is a style of ale traditionally from Scotland, known for its malty flavors, usually with flavors of caramel, toffee, and sometimes dried fruit.
 
 .. csv-table::
 
@@ -12,6 +14,10 @@ Seven Gables Scottish Ale
 
 .. figure:: /_static/beer/seven-gables-pint.png
    :width: 300
+
+Description
+~~~~~~~~~~~
+This is our most awarded beer we have produced thus far. It offers a well rounded complexity of malty notes on the flavor wheel. Caramel notes lead to a woody vanilla tone that is well balanced by the classic toffee and roasted malt characteristics that are loved in a Scottish ale.  Sure to satisfy a malt lover's dream.
 
 Name Origin
 ~~~~~~~~~~~

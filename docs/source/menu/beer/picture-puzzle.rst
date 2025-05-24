@@ -2,7 +2,9 @@
 Picture Puzzle Session IPA
 ==========================
 
-`Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#141>`_
+Style
+~~~~~
+A session IPA is a pale, hoppy India Pale Ale with a lower alcohol content than traditional IPAs.  They are made to be enjoyable even after multiple pours.
 
 .. csv-table::
 
@@ -12,6 +14,10 @@ Picture Puzzle Session IPA
 
 .. figure:: /_static/beer/picture-puzzle-pint.png
    :width: 300
+
+Description
+~~~~~~~~~~~
+Floral on the nose with hints of fresh cut grass and citrus tones. It finishes with a satisfying hop profile that is sure to quench your thirst for an IPA without the heavy alcohol load. So you can feel good about having another!
 
 Name Origin
 ~~~~~~~~~~~

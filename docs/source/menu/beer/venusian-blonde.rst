@@ -2,7 +2,9 @@
 Venusian Blonde Ale
 ======================
 
-`Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#36>`_
+Style
+~~~~~
+Our golden American blonde ale has a low bitterness and is generally an easy drinker. Characterized by bread and biscuit notes with a lingering sweet flavor.
 
 .. csv-table::
 
@@ -14,6 +16,10 @@ Venusian Blonde Ale
    :height: 500
 
    Art by Ava Stavros.
+
+Description
+~~~~~~~~~~~
+Our blonde ale comes packed with a flavor profile that has a soft honey sweetness on toasty warm bread.  Its golden caramel color fills you with a warming sensation like the sun on a spring afternoon. At an ABV of 4.8% this is an easy afternoon cup of cheer. 
 
 Name Origin
 ~~~~~~~~~~~

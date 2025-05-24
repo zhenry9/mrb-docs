@@ -2,7 +2,9 @@
 Shieldback West Coast IPA
 =========================
 
-`Brewers Association Style Guide <https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/#184>`_
+Style
+~~~~~
+Often bold and hop forward with a high bitterness and dry, crisp finish. Made to showcase the bold flavors of American hop varieties.
 
 .. csv-table::
 
@@ -12,6 +14,10 @@ Shieldback West Coast IPA
 
 .. figure:: /_static/beer/shieldback-pint.png
    :width: 300
+
+Description
+~~~~~~~~~~~
+This bold hoppy beer takes its cue from the many hop additions we put into it. It is made with the wild lover of hops in mind. We put the tried and true Nugget and Idaho 7 hops on brew day and further dry hop this beer with El Dorado and more Idaho 7. The finish is smooth and tropical. Easy to drink anytime of the year. 
 
 Name Origin
 ~~~~~~~~~~~

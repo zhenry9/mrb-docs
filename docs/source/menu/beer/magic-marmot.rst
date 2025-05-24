@@ -2,7 +2,9 @@
 Magic Marmot Oatmeal Stout
 ==========================
 
-`Style Description <https://www.craftbeer.com/styles/english-style-oatmeal-stout>`_
+Style
+~~~~~
+This dark ale is a style that is distinguished by the addition of oats during the brew process.  This results in a smoother, creamier mouthfeel and is slightly sweeter than traditional stouts.
 
 .. csv-table::
 
@@ -13,7 +15,9 @@ Magic Marmot Oatmeal Stout
 .. figure:: /_static/beer/marmot-pint.jpg
    :width: 300
 
-
+Description
+~~~~~~~~~~~
+Subtle oat and nut flavors leave a bit of roasted caramel and chocolate on your taste buds. An excellent beer that is welcoming and not too sweet but rather satisfying and delicious. 
 
 Name Origin
 ~~~~~~~~~~~
