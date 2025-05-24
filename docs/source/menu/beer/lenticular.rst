@@ -21,7 +21,7 @@ This true American style is a crowd pleaser with each sip. The crisp light flavo
 
 Name Origin
 ~~~~~~~~~~~
-A stationary **cloud**.
+A type of stationary **cloud**.
 
 Awards
 ~~~~~~

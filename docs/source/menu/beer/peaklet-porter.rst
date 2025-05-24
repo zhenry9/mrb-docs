@@ -4,7 +4,7 @@ Peaklet Porter
 
 Style
 ~~~~~
-Originating in England in the 18th century, it is known by its deep dark color due to the roasting process available at the time. Generally porters are made with an ale yeast characterized by their malty flavors often with notes of chocolate, coffee, or nuts. It was a favorite of the porters in London who transported goods, which is how it got its name.
+Originating in England in the 18th century, a porter is known by its deep dark color due to the roasting process available at the time. Generally porters are made with an ale yeast characterized by their malty flavors often with notes of chocolate, coffee, or nuts. It was a favorite of the porters in London who transported goods, which is how it got its name.
 
 .. csv-table::
 

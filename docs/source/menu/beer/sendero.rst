@@ -4,7 +4,7 @@ Sendero Mexican Lager
 
 Style
 ~~~~~
-Light golden color with a defined clean and refreshing flavor. Can have a hint of hop bitterness. 
+A Mexican lager has a light golden color with a defined clean and refreshing flavor. Can have a hint of hop bitterness. 
 
 .. csv-table::
 
@@ -17,7 +17,7 @@ Light golden color with a defined clean and refreshing flavor. Can have a hint o
 
 Description
 ~~~~~~~~~~~
-Bright and refreshing with a zing of citrus.  A tang of salt lingering on the finish will leave you wanting more. Pairs well with taco Tuesdays!
+Bright and refreshing with a zing of citrus. A tang of salt lingering on the finish will leave you wanting more. Pairs well with Taco Tuesdays!
 
 Name Origin
 ~~~~~~~~~~~
