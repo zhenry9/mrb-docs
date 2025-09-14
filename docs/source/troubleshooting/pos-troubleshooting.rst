@@ -31,5 +31,5 @@ If none of these fix the problem, it could be a :ref:`Network Outage`.
 
 Card Reader Troubleshooting
 ----------------------------
-<https://domain.invalid/>https://support.arryved.com/portal/en/kb/articles/tdynamo-troubleshooting
+<https://support.arryved.com/portal/en/kb/articles/tdynamo-troubleshooting>
 
