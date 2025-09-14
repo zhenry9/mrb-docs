@@ -9,7 +9,7 @@ The drawer is connected to and controlled by the receipt printer. When the drawe
 - **Paper jam:** open the printer, pull out the jammed paper, and close it.
 - **Printer off:** sometimes the power button gets bumped. Turn it back on.
 - **Cable loose:** make sure the power and internet cables are correctly connected at both ends.
-- **Stuck QR Code Order: Check the tablet in the Prep Room to make sure there are no red QR code tickets. This means that they have not been sent through. Click on the "Arryved Printing Co" app then go to "Print Jobs" and click "reprint" on any red QR orders. They should reprint up front, turn green, and all systems should be back online
+- Stuck QR Code Order: Check the tablet in the Prep Room to make sure there are no red QR code tickets. This means that they have not been sent through. Click on the "Arryved Printing Co" app then go to "Print Jobs" and click "reprint" on any red QR orders. They should reprint up front, turn green, and all systems should be back online
 
 If none of these fix the problem, it could be a :ref:`Network Outage`.
 
@@ -25,7 +25,7 @@ Possible problems:
 - **Paper jam:** open the printer, pull out the jammed paper, and close it. The kitchen printer can also get filled with paper scraps and fibers, which will cause an error. Remove the ink ribbon and blow out as much debris as possible. Reassemble and restart the printer.
 - **Printer off:** sometimes the power button gets bumped. Turn it back on.
 - **Cable loose:** make sure the power and internet cables are correctly connected at both ends.
-- **Stuck QR Code Order: Check the tablet in the Prep Room to make sure there are no red QR code tickets. This means that they have not been sent through. Click on the "Arryved Printin Co" app then go to "Print Jobs" and click "reprint on any red QR orders. They should reprint up front, turn green, and all systems should be back online
+- Stuck QR Code Order: Check the tablet in the Prep Room to make sure there are no red QR code tickets. This means that they have not been sent through. Click on the "Arryved Printin Co" app then go to "Print Jobs" and click "reprint on any red QR orders. They should reprint up front, turn green, and all systems should be back online
 
 If none of these fix the problem, it could be a :ref:`Network Outage`.
 
