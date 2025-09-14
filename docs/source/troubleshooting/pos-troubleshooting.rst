@@ -28,3 +28,8 @@ Possible problems:
 - **Stuck QR Code Order: Check the tablet in the Prep Room to make sure there are no red QR code tickets. This means that they have not been sent through. Click on the "Arryved Printin Co" app then go to "Print Jobs" and click "reprint on any red QR orders. They should reprint up front, turn green, and all systems should be back online
 
 If none of these fix the problem, it could be a :ref:`Network Outage`.
+
+Card Reader Troubleshooting
+----------------------------
+<https://domain.invalid/>https://support.arryved.com/portal/en/kb/articles/tdynamo-troubleshooting
+
