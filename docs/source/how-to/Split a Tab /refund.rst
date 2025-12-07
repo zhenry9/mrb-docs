@@ -1,6 +1,3 @@
-**Split a Tab**
-<https://support.arryved.com/portal/en/kb/articles/splitting-tabs-25-4-2019>
----------------------
 Do a Refund
 ===========
 Mistakes happen, and sometimes it will be necessary to give a guest a refund.
